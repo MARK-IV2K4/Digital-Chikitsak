@@ -4,4 +4,4 @@ pymysql
 python-dotenv
 werkzeug
 requests
-PyJWT
+PyJWT==2.8.0
