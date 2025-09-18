@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pymysql
+python-dotenv
+werkzeug
+requests
+PyJWT==2.8.0
